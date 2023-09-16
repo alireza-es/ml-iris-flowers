@@ -22,7 +22,8 @@ To run the assignment code, follow these steps:
 
 1. Set up your Python development environment with the required libraries (NumPy, Pandas, Scikit-learn).
 2. Clone or download this repository.
-3. Navigate to the `code/` directory.
-4. Open and run the Jupyter Notebook `assignment_1.ipynb` or execute the Python script `assignment_1.py`.
+3. Install the requirements using `pip install -r environment/requirements.txt`. You may need to run `pip3 install -r environment/requirements.txt`
+4. Navigate to the `code/` directory.
+5. Open and run the Jupyter Notebook `assignment_1.ipynb` or execute the Python script `assignment_1.py`.
 
 Make sure to meet the assignment's requirements and follow the instructions in the assignment description.
