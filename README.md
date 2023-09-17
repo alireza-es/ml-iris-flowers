@@ -13,8 +13,7 @@ The repository is organized as follows:
 - `models/`: (Optional) Directory for storing trained machine learning models.
 
 ## Getting Started
-You can directly open the notebook in  [Google Colab](https://colab.research.google.com/github/alireza-es/ml-iris-flowers/blob/main/notebooks/assignment_1.ipynb) or follow the instructions below:
-To run the code in your local machine, follow these steps:
+You can directly open the notebook in  [Google Colab](https://colab.research.google.com/github/alireza-es/ml-iris-flowers/blob/main/notebooks/assignment_1.ipynb) or follow these steps to run the code in your local machine:
 1. Set up your Python development environment with the required libraries (NumPy, Pandas, Scikit-learn).
 2. Clone or download this repository.
 3. Install the requirements using `pip install -r environment/requirements.txt`. You may need to run `pip3 install -r environment/requirements.txt`
