@@ -1,4 +1,5 @@
 Jupyter
+notebook
 numpy
 pandas
 scikit-learn
