@@ -24,6 +24,6 @@ To run the assignment code, follow these steps:
 2. Clone or download this repository.
 3. Install the requirements using `pip install -r environment/requirements.txt`. You may need to run `pip3 install -r environment/requirements.txt`
 4. Navigate to the `code/` directory.
-5. Open and run the Jupyter Notebook `assignment_1.ipynb` or execute the Python script `assignment_1.py`.
+5. [Open](notebooks/assignment_1.ipynb) and run the Jupyter Notebook `assignment_1.ipynb` in the notebooks' folder.
 
 Make sure to meet the assignment's requirements and follow the instructions in the assignment description.
