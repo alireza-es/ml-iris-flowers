@@ -20,3 +20,10 @@ You can directly open the notebook in  [Google Colab](https://colab.research.goo
 4. Navigate to the `code/` directory.
 5. [Open](notebooks/assignment_1.ipynb) and run the Jupyter Notebook `assignment_1.ipynb` in the notebooks' folder.
 
+## Summary
+In this sample, I tackled the task of machine learning coding skills refresher. Here’s a summary of the key points and findings:
+1. **Data Exploration:** I started by exploring the Iris dataset, examining the data distribution and visualizing it using histograms and scatter plots. This step provided valuable insights into the dataset.
+2. **Data Preprocessing:** I performed essential data preprocessing tasks such as handling missing values, encoding categorical variables, and splitting the data into training and testing sets. These steps ensured that the data was ready for model building.
+3. **Model Building:** I selected the K-Nearest Neighbors (K-NN) algorithm for classification and built a basic model. This choice aligned well with the nature of the Iris dataset.
+4. **Model Training and Evaluation:** I trained the K-NN model on the training data and evaluated its performance on the testing data. Metrics such as accuracy, precision, recall, and the confusion matrix were used to assess the model’s performance.
+5. **Hyperparameter Tuning (Optional):** To fine-tune the model’s performance, I conducted a grid search over different values of n_neighbors for the K-NN algorithm. This step demonstrated the impact of hyperparameter tuning on model performance.
